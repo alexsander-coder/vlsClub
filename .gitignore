@@ -1,0 +1,8 @@
+.docker/dbata
+.vscode/
+node_modules/
+build/
+temp/
+.env
+ormconfig.json
+dist
